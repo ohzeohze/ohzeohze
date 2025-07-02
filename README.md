@@ -1,19 +1,13 @@
 <h1 align="left">ohze</h1>
 
 <p align="left">
-안드로이드 개발자 · Java · Kotlin · Firebase<br>
-시력저하자를 위한 앱을 개발하고 있습니다.
+
 </p>
 
 ---
 
 ### 💼 정보
 
-- 🎓 컴퓨터소프트웨어과 3학년  
-- 📱 Android (Java/Kotlin) 기반 앱 개발  
-- 🧪 Firebase, UI/UX, TTS 활용  
-- 🛠️ 실용적이고 직관적인 앱을 지향  
-- 🧘‍♀️ 조용하지만 꾸준하게 나아가는 개발자
 
 ---
 
