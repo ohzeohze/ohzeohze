@@ -24,12 +24,9 @@
 
 ### 📊 활동
 
-![ohzeohze's GitHub stats](https://github-readme-stats.vercel.app/api?username=ohzeohze&show_icons=true&hide_title=true&hide_border=true&theme=graywhite)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ohzeohze&layout=compact&hide_border=true&theme=graywhite)
 
 ---
 
 ### 📫 연락
 
-[블로그](https://yourblog.com) ・ [포트폴리오](https://yourportfolio.com) ・ your@email.com
+
